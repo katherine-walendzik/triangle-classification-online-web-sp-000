@@ -9,6 +9,7 @@ class Triangle
   end
   
   def kind
+    if @sides.
   end
   
   class TriangleError < StandardError
